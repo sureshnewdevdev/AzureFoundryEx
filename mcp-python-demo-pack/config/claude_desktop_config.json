@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "ittechgenie-demo": {
+      "command": "C:\\FULL\\PATH\\TO\\mcp-python-demo-pack\\.venv\\Scripts\\python.exe",
+      "args": ["-m", "mcp_demo.server"],
+      "env": {
+        "PYTHONPATH": "C:\\FULL\\PATH\\TO\\mcp-python-demo-pack\\src"
+      }
+    }
+  }
+}
+

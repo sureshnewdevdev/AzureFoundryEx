@@ -1,0 +1,7 @@
+[
+  {"id": 101, "name": "Asha", "department": "Data Engineering", "city": "Chennai", "skills": ["Python", "Spark", "BigQuery"]},
+  {"id": 102, "name": "Rahul", "department": "AI", "city": "Bengaluru", "skills": ["Python", "MCP", "LLM"]},
+  {"id": 103, "name": "Meena", "department": "Cloud", "city": "Hyderabad", "skills": ["GCP", "Airflow", "Terraform"]},
+  {"id": 104, "name": "Vijay", "department": "Data Engineering", "city": "Pune", "skills": ["Snowflake", "dbt", "SQL"]}
+]
+

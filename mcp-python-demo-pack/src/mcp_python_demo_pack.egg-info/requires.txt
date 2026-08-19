@@ -1,0 +1,7 @@
+mcp[cli]<3,>=2
+pydantic<3,>=2.7
+httpx2<3,>=2.12
+
+[dev]
+pytest<9,>=8
+pytest-asyncio<2,>=0.24

@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: mcp-python-demo-pack
+Version: 1.0.0
+Summary: Classroom-ready Model Context Protocol demonstrations using Python
+Requires-Python: >=3.10
+Requires-Dist: mcp[cli]<3,>=2
+Requires-Dist: pydantic<3,>=2.7
+Requires-Dist: httpx2<3,>=2.12
+Provides-Extra: dev
+Requires-Dist: pytest<9,>=8; extra == "dev"
+Requires-Dist: pytest-asyncio<2,>=0.24; extra == "dev"

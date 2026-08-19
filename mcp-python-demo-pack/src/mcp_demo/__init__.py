@@ -1,0 +1,2 @@
+"""MCP Python demo package."""
+

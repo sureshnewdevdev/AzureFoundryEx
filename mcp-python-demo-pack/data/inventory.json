@@ -1,0 +1,7 @@
+[
+  {"sku": "LAP-101", "name": "Training Laptop", "category": "Electronics", "price": 55000.0, "quantity": 8},
+  {"sku": "MON-201", "name": "24-inch Monitor", "category": "Electronics", "price": 12000.0, "quantity": 15},
+  {"sku": "KEY-301", "name": "Wireless Keyboard", "category": "Accessories", "price": 1800.0, "quantity": 25},
+  {"sku": "MIC-401", "name": "USB Microphone", "category": "Accessories", "price": 4200.0, "quantity": 3}
+]
+
